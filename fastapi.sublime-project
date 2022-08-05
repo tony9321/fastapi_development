@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"virtualenv": "venv",
+	"build_systems": [
+	  {
+	  "name": "PYTHON_VENV",
+	  "shell_cmd": "venv/python main.py"
+	  }
+ 	] 
+}
